@@ -6,3 +6,4 @@ Git tracks changes of files.
 My stupid boss still perfers SVN.
 
 This is a test.
+This is an other test.
