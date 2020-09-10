@@ -7,3 +7,5 @@ My stupid boss still perfers SVN.
 
 This is a test.
 This is an other test.
+
+Creating a branch is quick.
