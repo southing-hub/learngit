@@ -9,3 +9,5 @@ This is a test.
 This is an other test.
 
 Creating a branch is quick and simple.
+
+Test git stash.
